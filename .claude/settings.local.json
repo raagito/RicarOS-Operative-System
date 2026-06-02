@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C C:/Users/icgte/Desktop/Ace-a-DesktopOS checkout -- memorygame.js)",
+      "Bash(git -C C:/Users/icgte/Desktop/Ace-a-DesktopOS status)"
+    ]
+  }
+}
